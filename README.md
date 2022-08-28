@@ -1,2 +1,2 @@
-# module-in-action
+# java-module
 practice java modules
