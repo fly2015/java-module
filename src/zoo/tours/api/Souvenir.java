@@ -1,8 +1,8 @@
 /*
  * Souvenir.java
  *
- * Copyright by CRIF AG
- * Zürich
+ * Copyright by Hien Ng
+ * Da Nang
  * All rights reserved.
  */
 package zoo.tours.api;
